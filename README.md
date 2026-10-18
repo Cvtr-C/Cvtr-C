@@ -32,12 +32,12 @@ Hi! I'm **Carlos Vitor** from Brazil 🇧🇷
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Cvtr-C&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="47%" src="https://streak-stats.demolab.com?user=Cvtr-C&theme=dark&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&hide_border=true" alt="GitHub Streak" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=Cvtr-C&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="35%" src="https://streak-stats.demolab.com?user=Cvtr-C&theme=dark&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cvtr-C&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cvtr-C&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </div>
 
 ---

@@ -34,7 +34,6 @@ Hi! I'm **Carlos Vitor** from Brazil 🇧🇷
   <img height="20" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img height="20" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 
-
 ### 📊 GitHub Stats
 
 <div align="center">

@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Carlos Vitor**, a student from Brazil 🇧🇷
+Hi! I'm **Carlos Vitor** from Brazil 🇧🇷
 
 - ⚙️ Studying **Mechatronics Engineering** at **IFCE** (Federal Institute of Ceará)
 - 💻 Exploring **Frontend & Backend Development**
